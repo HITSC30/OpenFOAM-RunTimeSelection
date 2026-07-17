@@ -1,0 +1,1 @@
+理解OpenFOAM运行选择机制RunTimeSelection，本质上是指针+静态成员+工厂模式实现。
